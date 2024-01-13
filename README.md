@@ -2,7 +2,7 @@
 
 ### Uso 
 ```sh
-Descargar el script
+# Descargar el script
 wget https://raw.githubusercontent.com/Baneador/ep.sh/main/ep.sh
 
 # Darle permisos de ejecución
