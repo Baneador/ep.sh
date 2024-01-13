@@ -1,6 +1,6 @@
 # Extrae puertos de captura nmap grepeable
 
-Instalación y uso 
+### Instalación y uso 
 ```sh
 # Descargar el script
 wget https://raw.githubusercontent.com/Baneador/ep.sh/main/ep.sh
